@@ -19,7 +19,7 @@ Link to the book:
 https://web.stanford.edu/~jurafsky/slp3/
 
 Link to the book chapter:
-https://web.stanford.edu/~jurafsky/slp3/17.pdf
+https://web.stanford.edu/~jurafsky/slp3/11.pdf
 
 Group Number:
 35
