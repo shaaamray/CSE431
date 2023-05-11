@@ -8,7 +8,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1udvBNMR_WAOqBLG9w8IiKM_OcOiH_QVVgk48aXSPYyk/edit?usp=sharing
 
 Project title:
-Robust Sarcasm Detection in News Headlines using Active Learning
+Sarcasm Detection in News Headlines using Evidential Deep Learning-based LSTM and GRU
 
 Group Number:
 35
