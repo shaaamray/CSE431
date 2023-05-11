@@ -11,14 +11,17 @@ Paper title:
 Sarcasm Detection in News Headlines using Evidential Deep Learning-based LSTM and GRU
 
 Paper presentation (anyone can view without login):
+Used Own paper Pdf
 
 Paper submission date (to workshop/conference):
 
 Paper submission ID: (received) from conference/workshop
 
 Conference Name:
+The 7th Asian Conference on Pattern Recognition (ACPR 2023)
 
 Conference URL:
+https://ericlab.org/acpr2023/
 
 Group Number:
 35
